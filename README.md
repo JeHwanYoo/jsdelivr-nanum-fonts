@@ -7,3 +7,27 @@ tag {
   font-family: 'NanumBarunGothic', sans-serif;
 }
 ```
+
+# Font Name List
+
+- NanumBarunGothic
+- NanumBarunGothicBold
+- NanumBarunGothicLight
+- NanumBarunGothicUltraLight
+- NanumBrush
+- NanumGothic
+- NanumGothicBold
+- NanumGothicExtraBold
+- NanumGothicLight
+- NanumMyeongjo
+- NanumMyeongjoBold
+- NanumMyeongjoExtraBold
+- NanumPen
+- NanumSquareB
+- NanumSquareEB
+- NanumSquareL
+- NanumSquareR
+- NanumSquareRoundB
+- NanumSquareRoundEB
+- NanumSquareRoundL
+- NanumSquareRoundR

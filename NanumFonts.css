@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'NanumMyeongjo';
+    font-family: 'NanumMyeongjoBold';
     src: url('NanumMyeongjoBold.eot');
     src: url('NanumMyeongjoBold.eot?#iefix') format('embedded-opentype'),
         url('NanumMyeongjoBold.woff2') format('woff2'),
@@ -10,7 +10,7 @@
 }
 
 @font-face {
-    font-family: 'NanumSquare';
+    font-family: 'NanumSquareL';
     src: url('NanumSquareL.eot');
     src: url('NanumSquareL.eot?#iefix') format('embedded-opentype'),
         url('NanumSquareL.woff2') format('woff2'),
@@ -21,7 +21,7 @@
 }
 
 @font-face {
-    font-family: 'NanumSquare';
+    font-family: 'NanumSquareR';
     src: url('NanumSquareR.eot');
     src: url('NanumSquareR.eot?#iefix') format('embedded-opentype'),
         url('NanumSquareR.woff2') format('woff2'),
@@ -43,7 +43,7 @@
 }
 
 @font-face {
-    font-family: 'NanumSquareRound';
+    font-family: 'NanumSquareRoundB';
     src: url('NanumSquareRoundB.eot');
     src: url('NanumSquareRoundB.eot?#iefix') format('embedded-opentype'),
         url('NanumSquareRoundB.woff2') format('woff2'),
@@ -76,7 +76,7 @@
 }
 
 @font-face {
-    font-family: 'NanumSquare';
+    font-family: 'NanumSquareEB';
     src: url('NanumSquareEB.eot');
     src: url('NanumSquareEB.eot?#iefix') format('embedded-opentype'),
         url('NanumSquareEB.woff2') format('woff2'),
@@ -87,7 +87,7 @@
 }
 
 @font-face {
-    font-family: 'NanumBarunGothic';
+    font-family: 'NanumBarunGothicLight';
     src: url('NanumBarunGothicLight.eot');
     src: url('NanumBarunGothicLight.eot?#iefix') format('embedded-opentype'),
         url('NanumBarunGothicLight.woff2') format('woff2'),
@@ -109,7 +109,7 @@
 }
 
 @font-face {
-    font-family: 'NanumSquare';
+    font-family: 'NanumSquareB';
     src: url('NanumSquareB.eot');
     src: url('NanumSquareB.eot?#iefix') format('embedded-opentype'),
         url('NanumSquareB.woff2') format('woff2'),
@@ -120,7 +120,7 @@
 }
 
 @font-face {
-    font-family: 'NanumSquareRound';
+    font-family: 'NanumSquareRoundEB';
     src: url('NanumSquareRoundEB.eot');
     src: url('NanumSquareRoundEB.eot?#iefix') format('embedded-opentype'),
         url('NanumSquareRoundEB.woff2') format('woff2'),
@@ -131,7 +131,7 @@
 }
 
 @font-face {
-    font-family: 'NanumGothic';
+    font-family: 'NanumGothicLight';
     src: url('NanumGothicLight.eot');
     src: url('NanumGothicLight.eot?#iefix') format('embedded-opentype'),
         url('NanumGothicLight.woff2') format('woff2'),
@@ -142,7 +142,7 @@
 }
 
 @font-face {
-    font-family: 'NanumSquareRound';
+    font-family: 'NanumSquareRoundR';
     src: url('NanumSquareRoundR.eot');
     src: url('NanumSquareRoundR.eot?#iefix') format('embedded-opentype'),
         url('NanumSquareRoundR.woff2') format('woff2'),
@@ -153,7 +153,7 @@
 }
 
 @font-face {
-    font-family: 'NanumGothic';
+    font-family: 'NanumGothicBold';
     src: url('NanumGothicBold.eot');
     src: url('NanumGothicBold.eot?#iefix') format('embedded-opentype'),
         url('NanumGothicBold.woff2') format('woff2'),
@@ -164,7 +164,7 @@
 }
 
 @font-face {
-    font-family: 'NanumBarunGothic';
+    font-family: 'NanumBarunGothicBold';
     src: url('NanumBarunGothicBold.eot');
     src: url('NanumBarunGothicBold.eot?#iefix') format('embedded-opentype'),
         url('NanumBarunGothicBold.woff2') format('woff2'),
@@ -175,7 +175,7 @@
 }
 
 @font-face {
-    font-family: 'NanumBarunGothic';
+    font-family: 'NanumBarunGothicUltraLight';
     src: url('NanumBarunGothicUltraLight.eot');
     src: url('NanumBarunGothicUltraLight.eot?#iefix') format('embedded-opentype'),
         url('NanumBarunGothicUltraLight.woff2') format('woff2'),
@@ -186,7 +186,7 @@
 }
 
 @font-face {
-    font-family: 'Nanum Pen Script';
+    font-family: 'NanumPen';
     src: url('NanumPen.eot');
     src: url('NanumPen.eot?#iefix') format('embedded-opentype'),
         url('NanumPen.woff2') format('woff2'),
@@ -208,7 +208,7 @@
 }
 
 @font-face {
-    font-family: 'NanumSquareRound';
+    font-family: 'NanumSquareRoundL';
     src: url('NanumSquareRoundL.eot');
     src: url('NanumSquareRoundL.eot?#iefix') format('embedded-opentype'),
         url('NanumSquareRoundL.woff2') format('woff2'),
@@ -219,7 +219,7 @@
 }
 
 @font-face {
-    font-family: 'Nanum Brush Script';
+    font-family: 'NanumBrush';
     src: url('NanumBrush.eot');
     src: url('NanumBrush.eot?#iefix') format('embedded-opentype'),
         url('NanumBrush.woff2') format('woff2'),
