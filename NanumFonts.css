@@ -1,9 +1,10 @@
 @font-face {
     font-family: 'NanumMyeongjoBold';
-    src: url('fonts/NanumMyeongjoBold.eot');
+    src: local('NanumMyeongjoBold'), url('fonts/NanumMyeongjoBold.eot');
     src: url('fonts/NanumMyeongjoBold.eot?#iefix') format('embedded-opentype'),
         url('fonts/NanumMyeongjoBold.woff2') format('woff2'),
         url('fonts/NanumMyeongjoBold.woff') format('woff'),
+        url('fonts/NanumMyeongjoBold.ttf') format('ttf'),
         url('fonts/NanumMyeongjoBold.svg#NanumMyeongjoBold') format('svg');
     font-weight: bold;
     font-style: normal;
@@ -11,10 +12,11 @@
 
 @font-face {
     font-family: 'NanumSquareL';
-    src: url('fonts/NanumSquareL.eot');
+    src: local('NanumSquareL.ttf'), url('fonts/NanumSquareL.eot');
     src: url('fonts/NanumSquareL.eot?#iefix') format('embedded-opentype'),
         url('fonts/NanumSquareL.woff2') format('woff2'),
         url('fonts/NanumSquareL.woff') format('woff'),
+        url('fonts/NanumSquareL.ttf') format('ttf'),
         url('fonts/NanumSquareL.svg#NanumSquareL') format('svg');
     font-weight: 300;
     font-style: normal;
@@ -22,10 +24,11 @@
 
 @font-face {
     font-family: 'NanumSquareR';
-    src: url('fonts/NanumSquareR.eot');
+    src: local('NanumSquareR'), url('fonts/NanumSquareR.eot');
     src: url('fonts/NanumSquareR.eot?#iefix') format('embedded-opentype'),
         url('fonts/NanumSquareR.woff2') format('woff2'),
         url('fonts/NanumSquareR.woff') format('woff'),
+        url('fonts/NanumSquareR.ttf') format('ttf'),
         url('fonts/NanumSquareR.svg#NanumSquareR') format('svg');
     font-weight: normal;
     font-style: normal;
@@ -33,10 +36,11 @@
 
 @font-face {
     font-family: 'NanumMyeongjo';
-    src: url('fonts/NanumMyeongjo.eot');
+    src: local('NanumMyeongjo'), url('fonts/NanumMyeongjo.eot');
     src: url('fonts/NanumMyeongjo.eot?#iefix') format('embedded-opentype'),
         url('fonts/NanumMyeongjo.woff2') format('woff2'),
         url('fonts/NanumMyeongjo.woff') format('woff'),
+        url('fonts/NanumMyeongjo.ttf') format('ttf'),
         url('fonts/NanumMyeongjo.svg#NanumMyeongjo') format('svg');
     font-weight: normal;
     font-style: normal;
@@ -44,10 +48,11 @@
 
 @font-face {
     font-family: 'NanumSquareRoundB';
-    src: url('fonts/NanumSquareRoundB.eot');
+    src: local('NanumSquareRoundB'), url('fonts/NanumSquareRoundB.eot');
     src: url('fonts/NanumSquareRoundB.eot?#iefix') format('embedded-opentype'),
         url('fonts/NanumSquareRoundB.woff2') format('woff2'),
         url('fonts/NanumSquareRoundB.woff') format('woff'),
+        url('fonts/NanumSquareRoundB.ttf') format('ttf'),
         url('fonts/NanumSquareRoundB.svg#NanumSquareRoundB') format('svg');
     font-weight: bold;
     font-style: normal;
@@ -55,10 +60,11 @@
 
 @font-face {
     font-family: 'NanumMyeongjoExtraBold';
-    src: url('fonts/NanumMyeongjoExtraBold.eot');
+    src: local('NanumMyeongjoExtraBold'), url('fonts/NanumMyeongjoExtraBold.eot');
     src: url('fonts/NanumMyeongjoExtraBold.eot?#iefix') format('embedded-opentype'),
         url('fonts/NanumMyeongjoExtraBold.woff2') format('woff2'),
         url('fonts/NanumMyeongjoExtraBold.woff') format('woff'),
+        url('fonts/NanumMyeongjoExtraBold.ttf') format('ttf'),
         url('fonts/NanumMyeongjoExtraBold.svg#NanumMyeongjoExtraBold') format('svg');
     font-weight: 800;
     font-style: normal;
@@ -66,10 +72,11 @@
 
 @font-face {
     font-family: 'NanumBarunGothic';
-    src: url('fonts/NanumBarunGothic.eot');
+    src: local('NanumBarunGothic'), url('fonts/NanumBarunGothic.eot');
     src: url('fonts/NanumBarunGothic.eot?#iefix') format('embedded-opentype'),
         url('fonts/NanumBarunGothic.woff2') format('woff2'),
         url('fonts/NanumBarunGothic.woff') format('woff'),
+        url('fonts/NanumBarunGothic.ttf') format('ttf'),
         url('fonts/NanumBarunGothic.svg#NanumBarunGothic') format('svg');
     font-weight: normal;
     font-style: normal;
@@ -77,10 +84,11 @@
 
 @font-face {
     font-family: 'NanumSquareEB';
-    src: url('fonts/NanumSquareEB.eot');
+    src: local('NanumSquareEB'), url('fonts/NanumSquareEB.eot');
     src: url('fonts/NanumSquareEB.eot?#iefix') format('embedded-opentype'),
         url('fonts/NanumSquareEB.woff2') format('woff2'),
         url('fonts/NanumSquareEB.woff') format('woff'),
+        url('fonts/NanumSquareEB.ttf') format('ttf'),
         url('fonts/NanumSquareEB.svg#NanumSquareEB') format('svg');
     font-weight: 800;
     font-style: normal;
@@ -88,10 +96,11 @@
 
 @font-face {
     font-family: 'NanumBarunGothicLight';
-    src: url('fonts/NanumBarunGothicLight.eot');
+    src: local('NanumBarunGothicLight'), url('fonts/NanumBarunGothicLight.eot');
     src: url('fonts/NanumBarunGothicLight.eot?#iefix') format('embedded-opentype'),
         url('fonts/NanumBarunGothicLight.woff2') format('woff2'),
         url('fonts/NanumBarunGothicLight.woff') format('woff'),
+        url('fonts/NanumBarunGothicLight.ttf') format('ttf'),
         url('fonts/NanumBarunGothicLight.svg#NanumBarunGothicLight') format('svg');
     font-weight: 300;
     font-style: normal;
@@ -99,10 +108,11 @@
 
 @font-face {
     font-family: 'NanumGothicExtraBold';
-    src: url('fonts/NanumGothicExtraBold.eot');
+    src: local('NanumGothicExtraBold'), url('fonts/NanumGothicExtraBold.eot');
     src: url('fonts/NanumGothicExtraBold.eot?#iefix') format('embedded-opentype'),
         url('fonts/NanumGothicExtraBold.woff2') format('woff2'),
         url('fonts/NanumGothicExtraBold.woff') format('woff'),
+        url('fonts/NanumGothicExtraBold.ttf') format('ttf'),
         url('fonts/NanumGothicExtraBold.svg#NanumGothicExtraBold') format('svg');
     font-weight: 800;
     font-style: normal;
@@ -110,10 +120,11 @@
 
 @font-face {
     font-family: 'NanumSquareB';
-    src: url('fonts/NanumSquareB.eot');
+    src: local('NanumSquareB'), url('fonts/NanumSquareB.eot');
     src: url('fonts/NanumSquareB.eot?#iefix') format('embedded-opentype'),
         url('fonts/NanumSquareB.woff2') format('woff2'),
         url('fonts/NanumSquareB.woff') format('woff'),
+        url('fonts/NanumSquareB.ttf') format('ttf'),
         url('fonts/NanumSquareB.svg#NanumSquareB') format('svg');
     font-weight: bold;
     font-style: normal;
@@ -121,10 +132,11 @@
 
 @font-face {
     font-family: 'NanumSquareRoundEB';
-    src: url('fonts/NanumSquareRoundEB.eot');
+    src: local('NanumSquareRoundEB'), url('fonts/NanumSquareRoundEB.eot');
     src: url('fonts/NanumSquareRoundEB.eot?#iefix') format('embedded-opentype'),
         url('fonts/NanumSquareRoundEB.woff2') format('woff2'),
         url('fonts/NanumSquareRoundEB.woff') format('woff'),
+        url('fonts/NanumSquareRoundEB.ttf') format('ttf'),
         url('fonts/NanumSquareRoundEB.svg#NanumSquareRoundEB') format('svg');
     font-weight: 800;
     font-style: normal;
@@ -132,10 +144,11 @@
 
 @font-face {
     font-family: 'NanumGothicLight';
-    src: url('fonts/NanumGothicLight.eot');
+    src: local('NanumGothicLight'), url('fonts/NanumGothicLight.eot');
     src: url('fonts/NanumGothicLight.eot?#iefix') format('embedded-opentype'),
         url('fonts/NanumGothicLight.woff2') format('woff2'),
         url('fonts/NanumGothicLight.woff') format('woff'),
+        url('fonts/NanumGothicLight.ttf') format('ttf'),
         url('fonts/NanumGothicLight.svg#NanumGothicLight') format('svg');
     font-weight: 300;
     font-style: normal;
@@ -143,10 +156,11 @@
 
 @font-face {
     font-family: 'NanumSquareRoundR';
-    src: url('fonts/NanumSquareRoundR.eot');
+    src: local('NanumSquareRoundR'), url('fonts/NanumSquareRoundR.eot');
     src: url('fonts/NanumSquareRoundR.eot?#iefix') format('embedded-opentype'),
         url('fonts/NanumSquareRoundR.woff2') format('woff2'),
         url('fonts/NanumSquareRoundR.woff') format('woff'),
+        url('fonts/NanumSquareRoundR.ttf') format('ttf'),
         url('fonts/NanumSquareRoundR.svg#NanumSquareRoundR') format('svg');
     font-weight: normal;
     font-style: normal;
@@ -154,10 +168,11 @@
 
 @font-face {
     font-family: 'NanumGothicBold';
-    src: url('fonts/NanumGothicBold.eot');
+    src: local('NanumGothicBold'), url('fonts/NanumGothicBold.eot');
     src: url('fonts/NanumGothicBold.eot?#iefix') format('embedded-opentype'),
         url('fonts/NanumGothicBold.woff2') format('woff2'),
         url('fonts/NanumGothicBold.woff') format('woff'),
+        url('fonts/NanumGothicBold.ttf') format('ttf'),
         url('fonts/NanumGothicBold.svg#NanumGothicBold') format('svg');
     font-weight: bold;
     font-style: normal;
@@ -165,10 +180,11 @@
 
 @font-face {
     font-family: 'NanumBarunGothicBold';
-    src: url('fonts/NanumBarunGothicBold.eot');
+    src: local('NanumBarunGothicBold'), url('fonts/NanumBarunGothicBold.eot');
     src: url('fonts/NanumBarunGothicBold.eot?#iefix') format('embedded-opentype'),
         url('fonts/NanumBarunGothicBold.woff2') format('woff2'),
         url('fonts/NanumBarunGothicBold.woff') format('woff'),
+        url('fonts/NanumBarunGothicBold.ttf') format('ttf'),
         url('fonts/NanumBarunGothicBold.svg#NanumBarunGothicBold') format('svg');
     font-weight: bold;
     font-style: normal;
@@ -176,10 +192,11 @@
 
 @font-face {
     font-family: 'NanumBarunGothicUltraLight';
-    src: url('fonts/NanumBarunGothicUltraLight.eot');
+    src: local('NanumBarunGothicUltraLight'), url('fonts/NanumBarunGothicUltraLight.eot');
     src: url('fonts/NanumBarunGothicUltraLight.eot?#iefix') format('embedded-opentype'),
         url('fonts/NanumBarunGothicUltraLight.woff2') format('woff2'),
         url('fonts/NanumBarunGothicUltraLight.woff') format('woff'),
+        url('fonts/NanumBarunGothicUltraLight.ttf') format('ttf'),
         url('fonts/NanumBarunGothicUltraLight.svg#NanumBarunGothicUltraLight') format('svg');
     font-weight: 200;
     font-style: normal;
@@ -187,10 +204,11 @@
 
 @font-face {
     font-family: 'NanumPen';
-    src: url('fonts/NanumPen.eot');
+    src: local('NanumPen'), url('fonts/NanumPen.eot');
     src: url('fonts/NanumPen.eot?#iefix') format('embedded-opentype'),
         url('fonts/NanumPen.woff2') format('woff2'),
         url('fonts/NanumPen.woff') format('woff'),
+        url('fonts/NanumPen.ttf') format('ttf'),
         url('fonts/NanumPen.svg#NanumPen') format('svg');
     font-weight: normal;
     font-style: normal;
@@ -198,10 +216,11 @@
 
 @font-face {
     font-family: 'NanumGothic';
-    src: url('fonts/NanumGothic.eot');
+    src: local('NanumGothic'), url('fonts/NanumGothic.eot');
     src: url('fonts/NanumGothic.eot?#iefix') format('embedded-opentype'),
         url('fonts/NanumGothic.woff2') format('woff2'),
         url('fonts/NanumGothic.woff') format('woff'),
+        url('fonts/NanumGothic.ttf') format('ttf'),
         url('fonts/NanumGothic.svg#NanumGothic') format('svg');
     font-weight: normal;
     font-style: normal;
@@ -209,10 +228,11 @@
 
 @font-face {
     font-family: 'NanumSquareRoundL';
-    src: url('fonts/NanumSquareRoundL.eot');
+    src: local('NanumSquareRoundL'), url('fonts/NanumSquareRoundL.eot');
     src: url('fonts/NanumSquareRoundL.eot?#iefix') format('embedded-opentype'),
         url('fonts/NanumSquareRoundL.woff2') format('woff2'),
         url('fonts/NanumSquareRoundL.woff') format('woff'),
+        url('fonts/NanumSquareRoundL.ttf') format('ttf'),
         url('fonts/NanumSquareRoundL.svg#NanumSquareRoundL') format('svg');
     font-weight: 300;
     font-style: normal;
@@ -220,12 +240,12 @@
 
 @font-face {
     font-family: 'NanumBrush';
-    src: url('fonts/NanumBrush.eot');
+    src: local('NanumBrush'), url('fonts/NanumBrush.eot');
     src: url('fonts/NanumBrush.eot?#iefix') format('embedded-opentype'),
         url('fonts/NanumBrush.woff2') format('woff2'),
         url('fonts/NanumBrush.woff') format('woff'),
+        url('fonts/NanumBrush.ttf') format('ttf'),
         url('fonts/NanumBrush.svg#NanumBrush') format('svg');
     font-weight: normal;
     font-style: normal;
 }
-
