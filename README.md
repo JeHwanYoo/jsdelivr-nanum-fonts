@@ -5,6 +5,7 @@
 
 tag {
   font-family: 'NanumBarunGothic', sans-serif;
+  font-weight: /* If you want to use NanumBarunGothicBold, use bold (= 700). */
 }
 ```
 
